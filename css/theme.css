@@ -1,0 +1,29 @@
+body {
+  padding-left: 0px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 10px;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+  padding-left: 0px;
+  margin: 0px;
+}
+
+.header h2 {
+  color: white;
+}
+.starter-template {
+	padding: 40px 15px;
+	text-align: center;
+}
